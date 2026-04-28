@@ -1,1 +1,1 @@
-Currently in active development, this is initial commit.
+Currently in development, this is initial commit.
